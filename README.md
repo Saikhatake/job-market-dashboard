@@ -2,6 +2,7 @@
 
 
 # Job-Market-dashboard
+Requires Excel 2016 or newer (Microsoft 365 desktop) with Power Query and Power Pivot enabled. Will not work in Excel Online free version or Excel 2010.
 
 ## Introduction
 
